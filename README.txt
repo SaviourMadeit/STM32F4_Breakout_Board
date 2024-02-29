@@ -5,9 +5,14 @@ This repository contains the design files, schematics, and documentation for the
 This breakout board is designed to simplify the development process by providing easy access to essential 
 features of the STM32F4 microcontroller, including voltage regulation, communication protocols, debugging interfaces, and indicator LEDs.
 
+
+
+
+
+
 ## Features
 
-- 3.3V Voltage Regulator: The breakout board includes a 3.3V voltage regulator to ensure stable power supply for 
+- 3.3V Voltage Regulator: The breakout board includes a 3.3V voltage regulator to ensure a stable power supply for 
                               connected peripherals and the STM32F4 microcontroller.
 
 - 3.3V Power Pin: Provides a convenient 3.3V power pin for external components or modules that require a regulated power supply.
@@ -24,8 +29,8 @@ features of the STM32F4 microcontroller, including voltage regulation, communica
 
 ## Contents
 
-- Schematics: Contains the schematic,and footprint files detailing the board's layout and connections.
-- Gerber_Files: Gerber files for PCB fabrication and Assemblying.
+- Schematics: Contains the schematic, and footprint files detailing the board's layout and connections.
+- Gerber_Files: Gerber files for PCB fabrication and Assembly.
 - Documentation: Additional documentation, usage guides, and pinout details.
 - Examples: Sample code examples demonstrating the use of different communication protocols with the breakout board.
 
